@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "devDependencies": {
+    "@types/express-jwt": "^6.0.4",
+    "typescript": "5.0.2"
+  },
+  "version": "0.0.1",
+  "main": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "express-jwt": "^6.0.0"
+  },
+  "engines": {
+    "node": "18.14.2"
+  },
+  "private": true
+}
