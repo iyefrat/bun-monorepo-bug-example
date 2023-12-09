@@ -1,3 +1,5 @@
-[install.lockfile]
+[install]
+peer = true
 
+[install.lockfile]
 print = "yarn"
