@@ -1,8 +1,5 @@
 {
   "type": "module",
   "private": true,
-  "workspaces": ["./packages/*"],
-  "engines": {
-    "node": "18.14.2"
-  }
+  "workspaces": ["./packages/*"]
 }
